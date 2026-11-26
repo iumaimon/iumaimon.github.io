@@ -24,9 +24,9 @@ I am a Mechanical Design Engineer and currently, I am Ph.D. student in Computati
 * (Jul-2018 to Feb-2022) Design Engineer at Nissan Automotive Technology Vietnam. Worked on Powertrain Department, focusing design 3D parts, Structural Analyst.
 
 ## Skills
-* Programming Languages: Python, MATLAB, C++, C.
-* Development Tools: Git, Simulink, Visual Studio Code, LaTeX.
-* Embedded Systems: PIC, Arduino.
-* Sensor Fusion: IMU, GPS.
-* Physics-Informed & Scientific ML: Physics-Informed Neural Networks (PINNs), Physics-Informed Neural Operators (PINO), Surrogate Modeling
-* Research Communication: Literature review, academic and technical documentation, scientific presentations.
+* **Programming Languages:** Python, MATLAB, C++, C.
+* **Development Tools:** Git, Simulink, Visual Studio Code, LaTeX.
+* **Embedded Systems:** PIC, Arduino.
+* **Sensor Fusion:** IMU, GPS.
+* **Physics-Informed & Scientific ML:** Physics-Informed Neural Networks (PINNs), Physics-Informed Neural Operators (PINO), Surrogate Modeling
+* **Research Communication:** Literature review, academic and technical documentation, scientific presentations.
