@@ -20,4 +20,5 @@ I am a Mechanical Design Engineer (CAD/CAE) with many years experience in 3D CAD
 
 * (Month-2026 to Present) Ph.D. student at X, Sejong University, Seoul, South Korea. Research focusing on parametric Physics-Informed Neural Operators and Deep Energy Method for structural mechanics.
 * (Apr-2025 to Jun-2026) CAE Engineer at Denso Vietnam. Worked on Solder Group, focusing integrated circuit (IC) modeling, Thermal-Structural Analyst and perform Computational fluid dynamics (CFD) simulation for Electronic Control Unit (ECU).
+* (Mar-2022 to Dec 2024) Researcher at Hanoi University of Industry. Research on Computer Vision, Deep learning, Object detection, Object tracking, Defect detection.
 * (Jul-2018 to Feb-2022) Design Engineer at Nissan Automotive Technology Vietnam. Worked on Powertrain Department, focusing design 3D parts, Structural Analyst.
