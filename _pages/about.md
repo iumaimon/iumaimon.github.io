@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Mechanical Design Engineer (CAD/CAE) with many years experience in 3D CAD Design & Thermal-Structural Analyst. Currently, I am Ph.D. student in Computational Mechanics at Sejong University, focusing on Isogeometric Analysis (IGA), Finite Element Method (FEM), and Physics-Informed Neural Operators.
+I am a Mechanical Design Engineer and currently, I am Ph.D. student in Computational Mechanics at Sejong University, focusing on Isogeometric Analysis (IGA), Finite Element Method (FEM), and Physics-Informed Neural Operators (PINO).
 
 
 ## Education
